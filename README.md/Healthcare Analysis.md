@@ -15,8 +15,7 @@ Healthcare_Analysis/
 └── .gitignore                     # Ignore temp files (.DS_Store, ~$Excel files)
 
 ## Tools Used
-- PostgreSQL
-- SQL queries
+- PostgreSQL (with SQL queries)
 - Excel
 
 ## Key Queries Implemented
