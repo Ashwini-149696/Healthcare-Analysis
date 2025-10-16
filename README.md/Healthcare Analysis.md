@@ -1,5 +1,12 @@
 # Healthcare Analysis
 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-F29111?logo=database&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?logo=microsoft-excel&logoColor=white)
+![Data_Analysis](https://img.shields.io/badge/Data_Analysis-FFD700?logo=graph&logoColor=black)
+![Florida_Atlantic_University](https://img.shields.io/badge/FAU_Project-003366?logo=academia&logoColor=white)
+
+
 ## Description
 This project analyzes healthcare appointment data to identify trends, no-show rates, and optimize scheduling workflows. It demonstrates SQL-based analysis and reporting using PostgreSQL, along with Excel analysis for visualization.
 
@@ -37,3 +44,8 @@ Healthcare_Analysis/
 
 ## Screenshot
 ![No-show Rate Chart](images/Screenshot 2025-09-30 at 2.07.40 PM.png)
+
+Author
+Ashwini Chintala
+Florida Atlantic University (FAU)
+GitHub: https://github.com/Ashwini-149696
