@@ -45,7 +45,7 @@ Healthcare_Analysis/
 ## Screenshot
 ![No-show Rate Chart](images/Screenshot 2025-09-30 at 2.07.40 PM.png)
 
-Author
+##Author
 Ashwini Chintala
 Florida Atlantic University (FAU)
 GitHub: https://github.com/Ashwini-149696
